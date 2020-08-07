@@ -1,0 +1,23 @@
+body
+{
+  background-color:darkslategray;
+
+  text-align:center;
+  border-style:solid;
+}
+h1
+{
+ font-family: "Bahnschrift", Courier, monospace;
+  color:aliceblue;
+}
+canvas
+{
+  width:500px;
+  height:300px;
+  border:2px solid silver;
+}
+h2
+{
+ font-family: "Bahnschrift", Courier, monospace;
+  color:lightslategray; 
+}
